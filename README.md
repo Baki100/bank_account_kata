@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bank Account Kata
 
 This project is a simple bank account management system implemented using Django and Django REST Framework. It provides RESTful HTTP APIs for managing accounts, including depositing, withdrawing, transferring funds, and viewing account statements.
@@ -17,3 +18,6 @@ Prerequisites
 -->Django REST Framework
 -->SQLite (default database)
 
+=======
+# bank-account-kata
+>>>>>>> Initial commit with project files
